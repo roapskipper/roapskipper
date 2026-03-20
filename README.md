@@ -75,3 +75,7 @@ public class RacingCar {
         System.out.println("Vroom! Tốc độ hiện tại: " + this.speed);
     }
 }
+```
+---
+
+[^1]: Đây là dòng giải thích nằm ở cuối trang, cách một dòng trống.
