@@ -30,7 +30,7 @@
 <div align="center">
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ubuntu,linux,mysql,js,git,github,idea,vscode" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,ubuntu,mysql,python,git,github,idea,vscode" alt="My Skills" />
   </a>
   <br>
 </div>
