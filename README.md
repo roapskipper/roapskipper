@@ -20,8 +20,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roapskipper&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roapskipper&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=roapskipper&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -31,7 +30,7 @@
 <div align="center">
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ubuntu,python,mysql,git,github,idea,vscode" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,ubuntu,linux,mysql,js,git,github,idea,vscode" alt="My Skills" />
   </a>
   <br>
 </div>
