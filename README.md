@@ -46,7 +46,7 @@
   </a>
   &nbsp;&nbsp;&nbsp; 
   <a href="https://www.linkedin.com/in/th%C3%A0nh-l%E1%BB%99c-nguy%E1%BB%85n-348506388/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Button" />
   </a>
   <br><br>
   
